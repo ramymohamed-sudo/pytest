@@ -1,0 +1,9 @@
+
+
+paho-mqtt
+pandas
+flask
+pytest
+
+
+
